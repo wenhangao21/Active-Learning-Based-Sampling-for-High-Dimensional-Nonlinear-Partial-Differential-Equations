@@ -2,3 +2,4 @@
 Paper here:https://arxiv.org/abs/2112.13988
 
 This repo contains the code for DGM with active sampling(self-normalized) in Section 4.4(compatibility test).
+Code for other sections can be provided upon request wenhanacademia at gmail dot com
