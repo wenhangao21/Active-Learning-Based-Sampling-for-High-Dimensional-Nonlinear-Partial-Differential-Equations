@@ -1,0 +1,162 @@
+epoch: 0, l2 error = 1.0626307626332174
+epoch: 400, l2 error = 1.2219105886644572
+epoch: 800, l2 error = 0.10037911381496037
+epoch: 1200, l2 error = 0.10705230228969784
+epoch: 1600, l2 error = 0.11000913706556342
+epoch: 2000, l2 error = 0.11059537919480215
+epoch: 2400, l2 error = 0.09483134761331885
+epoch: 2800, l2 error = 0.09407813392431735
+epoch: 3200, l2 error = 0.09173415082966402
+epoch: 3600, l2 error = 0.08790499103241707
+epoch: 4000, l2 error = 0.07388078909651434
+epoch: 4400, l2 error = 0.07690075285372916
+epoch: 4800, l2 error = 0.07065322173641207
+epoch: 5200, l2 error = 0.06321519680106717
+epoch: 5600, l2 error = 0.06465356395440774
+epoch: 6000, l2 error = 0.05347913651184794
+epoch: 6400, l2 error = 0.052966066910478546
+epoch: 6800, l2 error = 0.04715982378910701
+epoch: 7200, l2 error = 0.053471047885657395
+epoch: 7600, l2 error = 0.04354935049677847
+epoch: 8000, l2 error = 0.042822981626185766
+epoch: 8400, l2 error = 0.04537467100688677
+epoch: 8800, l2 error = 0.04096949444980876
+epoch: 9200, l2 error = 0.03844112850578503
+epoch: 9600, l2 error = 0.03868470209963513
+epoch: 10000, l2 error = 0.03722493012017869
+epoch: 10400, l2 error = 0.037959403897724835
+epoch: 10800, l2 error = 0.03696262267575688
+epoch: 11200, l2 error = 0.03629686078643214
+epoch: 11600, l2 error = 0.03478618759979529
+epoch: 12000, l2 error = 0.03358486728589409
+epoch: 12400, l2 error = 0.032332905810945174
+epoch: 12800, l2 error = 0.03272629502058784
+epoch: 13200, l2 error = 0.03352180274986552
+epoch: 13600, l2 error = 0.03323731598897305
+epoch: 14000, l2 error = 0.03326868676389223
+epoch: 14400, l2 error = 0.03269676920720851
+epoch: 14800, l2 error = 0.03332596446006813
+epoch: 15200, l2 error = 0.032639908715274286
+epoch: 15600, l2 error = 0.03182731831135174
+epoch: 16000, l2 error = 0.03279371401663891
+epoch: 16400, l2 error = 0.03208947073563657
+epoch: 16800, l2 error = 0.03163034621616665
+epoch: 17200, l2 error = 0.031824003999601495
+epoch: 17600, l2 error = 0.03141262278579027
+epoch: 18000, l2 error = 0.031469586694726014
+epoch: 18400, l2 error = 0.03187134523782872
+epoch: 18800, l2 error = 0.03201554992837046
+epoch: 19200, l2 error = 0.031546602945685745
+epoch: 19600, l2 error = 0.03133857620419376
+epoch: 0, l2 error = 1.0626282172400192
+epoch: 400, l2 error = 1.8843884537924278
+epoch: 800, l2 error = 1.0325834050597091
+epoch: 1200, l2 error = 0.510213310473944
+epoch: 1600, l2 error = 0.17476651300533735
+
+Did you change path and problem number in active_sampling.py? Answer yes or noy
+sampling: none sampling_on_IBC: self-normalized method: B
+ power_ip: 10 power_mh: 8
+ power_ip_on_IBC: 20 power_mh_on_IBC: 4
+ dimension: 20 epoch: 20000 N_inside: 12000
+ bdy_control: none ini_control: none ini_constant: none
+
+epoch = 0, loss = 12286.870957, lr = 1.000000e-03, l2 error = 1.062631e+00, max error = 1.041251e+00
+
+epoch = 400, loss = 72.703272, lr = 8.709636e-04, l2 error = 1.221911e+00, max error = 9.872742e-01
+
+epoch = 800, loss = 18.414800, lr = 7.585776e-04, l2 error = 1.003791e-01, max error = 2.912564e-01
+
+epoch = 1200, loss = 12.873841, lr = 6.606934e-04, l2 error = 1.070523e-01, max error = 2.767876e-01
+
+epoch = 1600, loss = 10.654016, lr = 5.754399e-04, l2 error = 1.100091e-01, max error = 2.144070e-01
+
+epoch = 2000, loss = 10.323514, lr = 5.011872e-04, l2 error = 1.105954e-01, max error = 2.029546e-01
+
+epoch = 2400, loss = 8.575256, lr = 4.365158e-04, l2 error = 9.483135e-02, max error = 1.830443e-01
+
+epoch = 2800, loss = 7.820532, lr = 3.801894e-04, l2 error = 9.407813e-02, max error = 1.754936e-01
+
+epoch = 3200, loss = 7.456952, lr = 3.311311e-04, l2 error = 9.173415e-02, max error = 1.620448e-01
+
+epoch = 3600, loss = 6.537047, lr = 2.884032e-04, l2 error = 8.790499e-02, max error = 1.652113e-01
+
+epoch = 4000, loss = 6.520342, lr = 2.511886e-04, l2 error = 7.388079e-02, max error = 1.429576e-01
+
+epoch = 4400, loss = 6.060636, lr = 2.187762e-04, l2 error = 7.690075e-02, max error = 1.475034e-01
+
+epoch = 4800, loss = 5.589883, lr = 1.905461e-04, l2 error = 7.065322e-02, max error = 1.364341e-01
+
+epoch = 5200, loss = 5.291485, lr = 1.659587e-04, l2 error = 6.321520e-02, max error = 1.311858e-01
+
+epoch = 5600, loss = 4.851811, lr = 1.445440e-04, l2 error = 6.465356e-02, max error = 1.304171e-01
+
+epoch = 6000, loss = 4.743503, lr = 1.258925e-04, l2 error = 5.347914e-02, max error = 1.210021e-01
+
+epoch = 6400, loss = 4.563162, lr = 1.096478e-04, l2 error = 5.296607e-02, max error = 1.266329e-01
+
+epoch = 6800, loss = 4.406764, lr = 9.549926e-05, l2 error = 4.715982e-02, max error = 1.241683e-01
+
+epoch = 7200, loss = 4.034289, lr = 8.317638e-05, l2 error = 5.347105e-02, max error = 1.291558e-01
+
+epoch = 7600, loss = 3.841395, lr = 7.244360e-05, l2 error = 4.354935e-02, max error = 1.223546e-01
+
+epoch = 8000, loss = 3.785872, lr = 6.309573e-05, l2 error = 4.282298e-02, max error = 1.230300e-01
+
+epoch = 8400, loss = 3.463291, lr = 5.495409e-05, l2 error = 4.537467e-02, max error = 1.307186e-01
+
+epoch = 8800, loss = 3.336173, lr = 4.786301e-05, l2 error = 4.096949e-02, max error = 1.252178e-01
+
+epoch = 9200, loss = 3.232436, lr = 4.168694e-05, l2 error = 3.844113e-02, max error = 1.206091e-01
+
+epoch = 9600, loss = 3.061595, lr = 3.630781e-05, l2 error = 3.868470e-02, max error = 1.206608e-01
+
+epoch = 10000, loss = 3.085085, lr = 3.162278e-05, l2 error = 3.722493e-02, max error = 1.202067e-01
+
+epoch = 10400, loss = 2.910858, lr = 2.754229e-05, l2 error = 3.795940e-02, max error = 1.200196e-01
+
+epoch = 10800, loss = 2.751135, lr = 2.398833e-05, l2 error = 3.696262e-02, max error = 1.195640e-01
+
+epoch = 11200, loss = 2.861535, lr = 2.089296e-05, l2 error = 3.629686e-02, max error = 1.171461e-01
+
+epoch = 11600, loss = 2.659601, lr = 1.819701e-05, l2 error = 3.478619e-02, max error = 1.156867e-01
+
+epoch = 12000, loss = 2.671250, lr = 1.584893e-05, l2 error = 3.358487e-02, max error = 1.126747e-01
+
+epoch = 12400, loss = 2.613901, lr = 1.380384e-05, l2 error = 3.233291e-02, max error = 1.090507e-01
+
+epoch = 12800, loss = 2.578725, lr = 1.202264e-05, l2 error = 3.272630e-02, max error = 1.099675e-01
+
+epoch = 13200, loss = 2.547894, lr = 1.047129e-05, l2 error = 3.352180e-02, max error = 1.120212e-01
+
+epoch = 13600, loss = 2.534652, lr = 9.120108e-06, l2 error = 3.323732e-02, max error = 1.118520e-01
+
+epoch = 14000, loss = 2.466955, lr = 7.943282e-06, l2 error = 3.326869e-02, max error = 1.131479e-01
+
+epoch = 14400, loss = 2.470660, lr = 6.918310e-06, l2 error = 3.269677e-02, max error = 1.096706e-01
+
+epoch = 14800, loss = 2.445356, lr = 6.025596e-06, l2 error = 3.332596e-02, max error = 1.097006e-01
+
+epoch = 15200, loss = 2.339060, lr = 5.248075e-06, l2 error = 3.263991e-02, max error = 1.112357e-01
+
+epoch = 15600, loss = 2.382560, lr = 4.570882e-06, l2 error = 3.182732e-02, max error = 1.089013e-01
+
+epoch = 16000, loss = 2.442518, lr = 3.981072e-06, l2 error = 3.279371e-02, max error = 1.116316e-01
+
+epoch = 16400, loss = 2.404595, lr = 3.467369e-06, l2 error = 3.208947e-02, max error = 1.103306e-01
+
+epoch = 16800, loss = 2.392613, lr = 3.019952e-06, l2 error = 3.163035e-02, max error = 1.084184e-01
+
+epoch = 17200, loss = 2.351452, lr = 2.630268e-06, l2 error = 3.182400e-02, max error = 1.080115e-01
+
+epoch = 17600, loss = 2.241588, lr = 2.290868e-06, l2 error = 3.141262e-02, max error = 1.091110e-01
+
+epoch = 18000, loss = 2.339431, lr = 1.995262e-06, l2 error = 3.146959e-02, max error = 1.061767e-01
+
+epoch = 18400, loss = 2.202451, lr = 1.737801e-06, l2 error = 3.187135e-02, max error = 1.080679e-01
+
+epoch = 18800, loss = 2.306268, lr = 1.513561e-06, l2 error = 3.201555e-02, max error = 1.089939e-01
+
+epoch = 19200, loss = 2.322543, lr = 1.318257e-06, l2 error = 3.154660e-02, max error = 1.084084e-01
+
+epoch = 19600, loss = 2.371605, lr = 1.148154e-06, l2 error = 3.133858e-02, max error = 1.068685e-01

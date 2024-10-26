@@ -1,0 +1,5 @@
+sampling: none sampling_on_IBC: self-normalized method: B
+ power_ip: 10 power_mh: 8
+ power_ip_on_IBC: 20 power_mh_on_IBC: 4
+ dimension: 20 epoch: 20000 N_inside: 12000
+ bdy_control: none ini_control: none ini_constant: none
